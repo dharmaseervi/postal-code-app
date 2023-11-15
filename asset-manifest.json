@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dharmaseervi/postal-code-app.git/static/css/main.b1d7ec7b.css",
+    "main.js": "/dharmaseervi/postal-code-app.git/static/js/main.b3a6f1e4.js",
+    "index.html": "/dharmaseervi/postal-code-app.git/index.html",
+    "main.b1d7ec7b.css.map": "/dharmaseervi/postal-code-app.git/static/css/main.b1d7ec7b.css.map",
+    "main.b3a6f1e4.js.map": "/dharmaseervi/postal-code-app.git/static/js/main.b3a6f1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.b3a6f1e4.js"
+  ]
+}
